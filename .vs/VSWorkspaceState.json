@@ -1,7 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Buoi02_3"
+    "\\Buoi04_1",
+    "\\Buoi04_1\\bin",
+    "\\Buoi04_1\\bin\\Debug",
+    "\\Buoi04_3",
+    "\\buoi04_4",
+    "\\buoi04_4\\bin",
+    "\\buoi04_5",
+    "\\buoi04_5\\bin",
+    "\\buoi04_5\\bin\\Debug",
+    "\\buoi04_5\\Properties"
   ],
+  "SelectedNode": "\\Buoi04_1\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

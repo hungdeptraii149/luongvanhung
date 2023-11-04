@@ -1,0 +1,14 @@
+D:\LuongVanHung_2121110123\LuongVanHung_2121110123\bin\Debug\LuongVanHung_2121110123.exe.config
+D:\LuongVanHung_2121110123\LuongVanHung_2121110123\bin\Debug\LuongVanHung_2121110123.exe
+D:\LuongVanHung_2121110123\LuongVanHung_2121110123\bin\Debug\LuongVanHung_2121110123.pdb
+D:\LuongVanHung_2121110123\LuongVanHung_2121110123\bin\Debug\EntityFramework.dll
+D:\LuongVanHung_2121110123\LuongVanHung_2121110123\bin\Debug\EntityFramework.SqlServer.dll
+D:\LuongVanHung_2121110123\LuongVanHung_2121110123\bin\Debug\EntityFramework.xml
+D:\LuongVanHung_2121110123\LuongVanHung_2121110123\bin\Debug\EntityFramework.SqlServer.xml
+D:\LuongVanHung_2121110123\LuongVanHung_2121110123\obj\Debug\LuongVanHung_2121110123.csproj.AssemblyReference.cache
+D:\LuongVanHung_2121110123\LuongVanHung_2121110123\obj\Debug\LuongVanHung_2121110123.Properties.Resources.resources
+D:\LuongVanHung_2121110123\LuongVanHung_2121110123\obj\Debug\LuongVanHung_2121110123.csproj.GenerateResource.cache
+D:\LuongVanHung_2121110123\LuongVanHung_2121110123\obj\Debug\LuongVanHung_2121110123.csproj.CoreCompileInputs.cache
+D:\LuongVanHung_2121110123\LuongVanHung_2121110123\obj\Debug\LuongVanHung_2121110123.csproj.CopyComplete
+D:\LuongVanHung_2121110123\LuongVanHung_2121110123\obj\Debug\LuongVanHung_2121110123.exe
+D:\LuongVanHung_2121110123\LuongVanHung_2121110123\obj\Debug\LuongVanHung_2121110123.pdb
